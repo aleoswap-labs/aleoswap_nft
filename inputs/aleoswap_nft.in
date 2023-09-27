@@ -1,0 +1,4 @@
+// The program input for aleoswap_nft/src/main.leo
+[initialize_public]
+public symbol: u128 = 1024u128;
+public base_uri: BaseURI = BaseURI{ data0: 1u128, data1: 2u128, data2: 3u128, data3: 4u128};
